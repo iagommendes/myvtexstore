@@ -1,0 +1,44 @@
+{
+  "store.home": { 
+    "blocks": [
+      "rich-text",
+      "info-card#left",
+      "info-card#right"
+    ]
+  },
+  "rich-text": { 
+    "props": { 
+      "text": "bORA GASTAR ESSE DINHEIRO BB k",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "font": "t-heading-1"
+    }
+  }
+  ,
+  "info-card#left": {
+    "props": {
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://www.promobit.com.br/blog/wp-content/uploads/2019/01/10181209/panelas-ceramicas-3.jpg",
+      "headline": "Discover new flavors",
+      "subhead": "Give your kitchen a boho style adding vintage apparels.<br>Available until January 2020.",
+      "callToActionMode": "button",
+      "callToActionText": "Explore",
+      "callToActionUrl": "/sale/d",
+      "textAlignment": "left"
+    }
+  },
+  "info-card#right": {
+    "props": {
+      "isFullModeStyle": false,
+      "textPosition": "right",
+      "imageUrl": "https://www.artezanal.com/blog/wp-content/uploads/2014/04/Cozinha-Vintage.jpg",
+      "headline": "Amazing vintage kitchen",
+      "subhead": "Give your kitchen a boho style adding vintage apparels.<br>Available until January 2020.",
+      "callToActionMode": "button",
+      "callToActionText": "Explore",
+      "callToActionUrl": "/sale/d",
+      "textAlignment": "left"
+    }
+  }
+}
